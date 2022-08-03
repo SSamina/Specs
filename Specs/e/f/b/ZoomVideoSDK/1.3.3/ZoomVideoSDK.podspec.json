@@ -16,7 +16,7 @@
   "static_framework": true,
   "requires_arc": true,
   "source": {
-    "http": "https://hahliveimages.blob.core.windows.net/hahliveimages/hah_cloud/zip/100670404/hahconnect.zip",
+    "http": "https://github.com/zoom/zoom-video-sdk-iOS/releases/download/v1.3.3/zoom-video-sdk-iOS.zip",
     "type": "zip"
   },
   "pod_target_xcconfig": {
